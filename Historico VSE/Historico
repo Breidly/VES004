@@ -1,0 +1,8 @@
+El historico toma datos del valor pico obtenido por el VSE en un intervalo de tiempo configurable, este intervalo puede ser como minimo de 1 min.
+
+Tambien se puede seleccionar otros tipo de datos en la configuracion del historico para obtenerlos juntos a los valores picos, estos valores son:
+Rot. - Velocidad de Rotación
+Ref. - Valor de Referencia
+Vm.  - Valor medio
+Var. - Cambio de variante
+Daño - Alarma Principal

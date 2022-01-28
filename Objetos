@@ -1,9 +1,0 @@
-Rango de Frecuencia
--Calcula el valor eficaz dentro de una banda de frecuencia de libre elección.
--Los objeto en el rango de Frecuencia se calculan por multiplexacion. Durante la supervision se puede generar un "Timepo Muerto". 
- Para una supervision permanente escoger el ranfo de tiempo.
--No hay limites de objetos a crear en el rango de frecuencia, sin embargo mientras mas objetos en el rango de frecuencia se creen,
- el tiempo de medicion se ira reduciendo. Siendo el tiempo de medicion inicial 100 ms.
- 
- Rango de Tiempo
- 
